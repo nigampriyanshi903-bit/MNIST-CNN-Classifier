@@ -14,7 +14,7 @@ The primary objectives of this project are:
 
 The CNN model is designed for efficiency and high accuracy. 
 
-![CNN Model Accuracy Plot](Accuracy.png)
+![CNN Model Accuracy Plot]("C:\Users\Asus\OneDrive\Pictures\Accuracy.png")
  The core architecture is as follows:
 
 | Layer | Output Shape | Parameters | Description |
