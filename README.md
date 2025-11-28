@@ -14,7 +14,7 @@ The primary objectives of this project are:
 
 The CNN model is designed for efficiency and high accuracy. 
 
-![CNN Model Accuracy Plot](https://raw.githubusercontent.com/nigampriyanshi903-bit/MNIST-CNN-Classifier/main/Accuracy.png)
+![CNN Model Accuracy Plot](Accuracy.png)
  The core architecture is as follows:
 
 | Layer | Output Shape | Parameters | Description |
